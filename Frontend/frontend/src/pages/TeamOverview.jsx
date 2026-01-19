@@ -225,7 +225,7 @@ const TeamOverview = ({ onAction }) => {
                       className="w-full px-4 py-3 bg-gradient-to-r from-[#9B8AC7] to-[#8B7AB7] hover:from-[#8B7AB7] hover:to-[#7B6AA7] text-white border-2 border-[#8B7AB7] rounded-xl text-xs font-black uppercase tracking-wide transition-all duration-300 flex items-center justify-center gap-2 shadow-lg group-hover:shadow-xl"
                     >
                       <i className="fa-solid fa-user text-xs"></i>
-                      View Profile
+                      Action
                     </button>
                   </div>
                 </div>
